@@ -1,3 +1,4 @@
 def square_array(array)
-  while array.length 
+  count = array.length
+  while count < array.length
 end
