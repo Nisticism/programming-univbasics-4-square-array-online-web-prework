@@ -6,5 +6,5 @@ def square_array(array)
     count += 1
   end
   
-  return square_array_return
+  square_array_return
 end
