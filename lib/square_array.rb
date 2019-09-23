@@ -4,5 +4,5 @@ def square_array(array)
   while count < array.length do
     square_array_return.push(array[count] * array[count])
     count += 1
-  square_array_return
+  return square_array_return
 end
